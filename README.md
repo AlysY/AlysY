@@ -12,10 +12,10 @@ I work as a Research Fellow with the [Global Ecology Lab](https://www.globalecol
 - Testing quantitative approaches to ecosystem mapping ([see preprint](https://ecoevorxiv.org/repository/view/8500/))
 - Applying Bayesian spatial models to health research ([see preprint](https://www.medrxiv.org/content/10.1101/2024.11.06.24316846v1))
 
-I am most comfortable coding in R. I strive to create supportive, approachable, and collaborative environments wherever I work. I also enjoy sharing my knowledge through teaching coding and collaborating on interdisciplinary research.
+I am most comfortable coding in R. I often use large spatial datasets. I am passionate about working with local and Indigenous peoples to support their goals and aspirations in managing biodiversity. I strive to create supportive, approachable, and collaborative environments wherever I work. I also enjoy sharing my knowledge through teaching coding and collaborating on interdisciplinary research.
 
 Outside of research, you’ll likely find me rock climbing/bouldering, playing softball, or gardening. 
 
-😄 [Google Scholar](https://scholar.google.com.au/citations?user=_Gb6Y44AAAAJ&hl=en&oi=ao) | [LinkedIn](https://au.linkedin.com/in/alys-young) | [Research Gate](https://www.researchgate.net/profile/Alys-Young-3) | Pronouns are she/her
-📫 Email me at alys.young@jcu.edu.au or a.young@research.deakin.edu.ued or alysy.research@gmail.com
-🌍 Based in Melbourne, Australia
+😄 [Google Scholar](https://scholar.google.com.au/citations?user=_Gb6Y44AAAAJ&hl=en&oi=ao) | [LinkedIn](https://au.linkedin.com/in/alys-young) | [Research Gate](https://www.researchgate.net/profile/Alys-Young-3) | Pronouns are she/her  
+📫 Email me at alys.young@jcu.edu.au or a.young@research.deakin.edu.ued or alysy.research@gmail.com  
+🌍 Based in Melbourne, Australia  
