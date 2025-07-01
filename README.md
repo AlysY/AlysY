@@ -17,8 +17,6 @@ I also work as a Research Assistant with [ACEFA](https://acefa-hubs.github.io/) 
 
 I am most comfortable coding in R. I often use large spatial datasets. I am passionate about working with local and Indigenous peoples to support their goals and aspirations in managing biodiversity. I strive to create supportive, approachable, and collaborative environments wherever I work. I also enjoy sharing my knowledge through teaching coding and collaborating on interdisciplinary research.
 
-I have also developed a series of shiny apps to communicate research results, including on 
-
 Outside of research, you’ll likely find me rock climbing/bouldering, playing softball, or gardening. 
 
 😄 [Google Scholar](https://scholar.google.com.au/citations?user=_Gb6Y44AAAAJ&hl=en&oi=ao) | [LinkedIn](https://au.linkedin.com/in/alys-young) | [ResearchGate](https://www.researchgate.net/profile/Alys-Young-3) | Pronouns are she/her  
