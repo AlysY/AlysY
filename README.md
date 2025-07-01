@@ -2,9 +2,9 @@
 
 I am a researcher passionate about conserving biodiversity. I employ quantitative tools and data-driven approaches to understand and protect ecosystems and species at broad spatial scales. 
  
-I work as a Research Fellow with the [Global Ecology Lab](https://www.globalecologylab.org/) at at [James Cook University](https://www.jcu.edu.au/) and am a PhD candidate with the [Conservation Science lab](https://conservationscience.org.au/) at [Deakin University](https://www.deakin.edu.au/). I also work as a Research Assistant with [ACEFA](https://acefa-hubs.github.io/) at [The University of Melbourne](https://www.unimelb.edu.au/). My research focuses on the biogeography, ecology, and remote sensing, often using large spatial datasets.
+I work as a Research Fellow with the [Global Ecology Lab](https://www.globalecologylab.org/) at at [James Cook University](https://www.jcu.edu.au/) and am a PhD candidate with the [Conservation Science lab](https://conservationscience.org.au/) and [Planet A lab](https://www.planet-a.earth/)at [Deakin University](https://www.deakin.edu.au/). I also work as a Research Assistant with [ACEFA](https://acefa-hubs.github.io/) at [The University of Melbourne](https://www.unimelb.edu.au/). Previously, I worked as a research assistant at [CSIRO](https://www.csiro.au/en/) to [understand antimicrobial resistance](https://research.csiro.au/amr-hotspots/). My research focuses on the biogeography, ecology, and remote sensing, often using large datasets.
 
-🔭 My work spans a range of biodiversity and conservation issues, including:
+🔭 My work spans a range of biodiversity issues and quantitative approaches, including:
 
 - Identifying critical locations for threatened species breeding ([see publication](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/acv.12763))
 - Developing species distribution models to support shoreline restoration ([see publication](https://www.sciencedirect.com/science/article/abs/pii/S2352485523000464))
@@ -17,5 +17,5 @@ I am most comfortable coding in R. I often use large spatial datasets. I am pass
 Outside of research, you’ll likely find me rock climbing/bouldering, playing softball, or gardening. 
 
 😄 [Google Scholar](https://scholar.google.com.au/citations?user=_Gb6Y44AAAAJ&hl=en&oi=ao) | [LinkedIn](https://au.linkedin.com/in/alys-young) | [Research Gate](https://www.researchgate.net/profile/Alys-Young-3) | Pronouns are she/her  
-📫 Email me at alys.young@jcu.edu.au or a.young@research.deakin.edu.ued or alysy.research@gmail.com  
+📫 Email me at alys.young@jcu.edu.au or a.young@research.deakin.edu.au or alysy.research@gmail.com  
 🌍 Based in Melbourne, Australia  
