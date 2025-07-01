@@ -19,6 +19,6 @@ I am most comfortable coding in R. I often use large spatial datasets. I am pass
 
 Outside of research, you’ll likely find me rock climbing/bouldering, playing softball, or gardening. 
 
-😄 [Google Scholar](https://scholar.google.com.au/citations?user=_Gb6Y44AAAAJ&hl=en&oi=ao) | [LinkedIn](https://au.linkedin.com/in/alys-young) | [ResearchGate](https://www.researchgate.net/profile/Alys-Young-3) | Pronouns are she/her  
+😄 [Google Scholar](https://scholar.google.com.au/citations?user=_Gb6Y44AAAAJ&hl=en&oi=ao) | [LinkedIn](https://au.linkedin.com/in/alys-young) | [ResearchGate](https://www.researchgate.net/profile/Alys-Young-3) | [Notion](https://alysy.notion.site/hello) | My pronouns are she/her  
 📫 Email me at alys.young@jcu.edu.au or a.young@research.deakin.edu.au or alysy.research@gmail.com  
 🌍 Based in Melbourne, Australia  
